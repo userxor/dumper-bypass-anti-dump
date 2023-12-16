@@ -1,0 +1,17 @@
+BDumper (by BataBo)
+===================
+
+So recently I developed new dumping tool I like to call bdumper,unlike other dumpers like MegaDumper or ExtremeDumper,my dumper can bypass anti-dump.
+
+Just drag and drop your packed exe onto Bdumper.exe and it will give you .NET assembly(Just like you would drag and drop onto de4dot).
+
+If the dumped assembly is corrupted.Go to cmd and enter : Bdumper.exe <PATH_OF_TARGET_FILE> <NUMBER_OF_MILLISECONDS_YOU_ALLOW_IT_TO_INITIALIZE_BEFORE_THE_DUMPING>
+
+Expriment with 3rd parameter until it works
+
+If you want to dump x64 assembly set third parameter to 300,if you want to dump x86 assembly just drag and drop the file onto Bdumper.exe,if it returns corrupted file for x86 just set the 3rd parameter to 500
+
+Enjoy
+
+-----------------------------------------------
+https://forum.tuts4you.com/topic/42386-bdumper/
