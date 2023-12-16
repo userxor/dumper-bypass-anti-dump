@@ -14,4 +14,3 @@ If you want to dump x64 assembly set third parameter to 300,if you want to dump 
 Enjoy
 
 -----------------------------------------------
-https://forum.tuts4you.com/topic/42386-bdumper/
